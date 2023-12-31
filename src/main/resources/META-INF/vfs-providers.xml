@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<providers>
+    <provider class-name="com.sshtools.vfs.dropbox.DropboxFileProvider">
+        <scheme name="dropbox"/>
+    </provider>
+</providers>
